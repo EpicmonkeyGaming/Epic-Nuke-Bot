@@ -11,7 +11,7 @@
     "url": "git+https://github.com/EpicmonkeyGaming/Epic-Nuke-Bot.git"
   },
   "author": "EpicMystic",
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "11": "0.0.1",
     "discord.js": "^11.6.4",
